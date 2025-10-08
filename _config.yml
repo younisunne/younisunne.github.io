@@ -118,25 +118,16 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:younisunne@email.com"
- #   - label: "Website"
-     # icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-  #  - label: "Twitter"
-     # icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
- #   - label: "Facebook"
-     # icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "http://github.com/younisunne"
-#    - label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+   links:
+     - label: "Email"
+       icon: "fas fa-fw fa-envelope-square"
+-       url: "mailto:younisunne@email.com"
++      url: "mailto:younisunne@email.com"
+ ...
+     - label: "GitHub"
+       icon: "fab fa-fw fa-github"
+-      url: "http://github.com/younisunne"
++      url: "https://github.com/younisunne"
 
 # Site Footer
 footer:
